@@ -1,0 +1,3 @@
+[[Restaurants]]
+[[Cafés]]
+[[Süßes & Snacks]]
