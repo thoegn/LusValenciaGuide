@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/thoegn/LusValenciaGuide
+  baseUrl: github.com/thoegn/LusValenciaGuide/hallo-lu!
   ignorePatterns:
     - private
     - templates
